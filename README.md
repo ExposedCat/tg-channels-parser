@@ -3,7 +3,6 @@
 
 [![Developer](https://img.shields.io/badge/Developer-Telegram-blue?style=for-the-badge)](https://t.me/ExposedCat)
 [![Cats](https://img.shields.io/badge/Cats-Meowgram%20V3-gold?style=for-the-badge)](https://t.me/MeowgramV3)
-![Updated Badge](https://badges.pufler.dev/updated/exposedcat/tg-channels-parser?style=for-the-badge)
 
 <img src="https://s.tcdn.co/cfc/5ba/cfc5bad2-7088-3375-90ce-23dce235b7ef/9.png" alt="Creepy Cat">
 
